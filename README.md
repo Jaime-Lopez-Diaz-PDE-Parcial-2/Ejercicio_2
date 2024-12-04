@@ -1,5 +1,12 @@
 # Ejercicio-2
 
+Jaime López Díaz
+
+Links:
+- Ejercicio 1: https://github.com/Jaime-Lopez-Diaz-PDE-Parcial-2/Ejercicio-1.git
+- Ejercicio 2: https://github.com/Jaime-Lopez-Diaz-PDE-Parcial-2/Ejercicio_2.git
+- Ejercicio 3: https://github.com/Jaime-Lopez-Diaz-PDE-Parcial-2/Ejercicio_3_Map.git
+
 ## Descripción
 Este ejercicio es una aplicación móvil que permite visualizar tareas, gestionar actividades y ver tareas en un calendario, con soporte para múltiples idiomas (español e inglés). Implementa funcionalidades como registro de usuario, inicio de sesión, gestión de actividades, y un calendario interactivo.
 
