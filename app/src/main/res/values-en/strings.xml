@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Exercise-1</string>
+    <string name="drawer_open">Open Menu</string>
+    <string name="drawer_close">Close Menu</string>
+    <string name="asignatura">Subject</string>
+    <string name="hora">Time</string>
+    <string name="d_a">Day</string>
+    <string name="registrarse">Sign Up</string>
+    <string name="contrase_a">Password</string>
+    <string name="correo_electr_nico">Email</string>
+    <string name="nombre">Name</string>
+    <string name="tareas_actuales">Current Tasks</string>
+    <string name="tareas_actuales_">Current Tasks</string>
+    <string name="ver_calendario">View Calendar</string>
+    <string name="ver_calendarios">View Calendar</string>
+    <string name="a_adir_actividad">Add Activity</string>
+    <string name="a_adir_actividad_">Add Activity</string>
+    <string name="cerrar_sesi_n">Log Out</string>
+    <string name="no_tienes_una_cuenta_reg_strate">Dont have an account? Sign Up</string>
+    <string name="iniciar_sesi_n">Log In</string>
+    <string name="contrase_as">Password</string>
+    <string name="correo_electr_nicos">Email</string>
+    <string name="cargando_tareas">Loading tasks...</string>
+    <string name="no_hay_actividades_programadas">No scheduled activities.</string>
+    <string name="siguiente">Next</string>
+    <string name="mes_a_o">Month Year</string>
+    <string name="anterior">Previous</string>
+    <string name="guardar_actividad">Save Activity</string>
+    <string name="asignaturas">Subject</string>
+    <string name="hora_hh_mm">Time (HH:MM)</string>
+    <string name="d_a_yyyy_mm_dd">Day (YYYY-MM-DD)</string>
+    <string name="select_language">Select Language</string>
+    <string-array name="roles">
+        <item>User</item>
+        <item>Administrator</item>
+    </string-array>
+</resources>
