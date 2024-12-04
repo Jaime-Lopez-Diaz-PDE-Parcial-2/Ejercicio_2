@@ -1,7 +1,7 @@
-# Ejercicio-1: Aplicación de Gestión de Actividades
+# Ejercicio-2
 
 ## Descripción
-Este proyecto es una aplicación móvil que permite gestionar tareas, actividades y calendarios, con soporte para múltiples idiomas (español e inglés). Implementa funcionalidades como registro de usuario, inicio de sesión, gestión de actividades, y un calendario interactivo.
+Este ejercicio es una aplicación móvil que permite visualizar tareas, gestionar actividades y ver tareas en un calendario, con soporte para múltiples idiomas (español e inglés). Implementa funcionalidades como registro de usuario, inicio de sesión, gestión de actividades, y un calendario interactivo.
 
 ### **Cambiar idioma**
 Una de las funcionalidades destacadas es el **cambio dinámico de idioma** entre inglés y español mediante un interruptor (`Switch`). Los cambios se aplican en tiempo real y afectan toda la interfaz de la aplicación.
